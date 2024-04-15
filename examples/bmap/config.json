@@ -1,0 +1,11 @@
+{
+    "name": "bMap",
+    "version": "0.0.1",
+    "Bversion": ">=2.0",
+    "author": "zhcode",
+    "description": "测试插件",
+    "license": "",
+    "icon": "",
+    "release_date": "2024.04.12",
+    "depends": []
+}
